@@ -4,6 +4,7 @@ _Bienvenido al repositorio de mi portafolio_
 En este repositorio expondré los lenguajes de programación que he aprendido durante mis estudios en la Facultad de Matemáticas, específicamente en la Licenciatura de Ingeniería de Software, y a lo largo de mi carrera profesional, explicando en cada uno de los lenguajes algunos proyectos que he llevado a cabo. Así también describiré lo que realicé en aquel(los) lugar(es) que he trabajado, ya sea como prácticante, becario o como trabajador formal.
 
 ## ¿Qué es lo que he realizado con cada lenguaje de programación? 📋
+_Hasta el momento todo lo que he aprendido ha sido debido a mis estudios en mi carrera._
 
 ### Java
 _Es uno de los primeros lenguajes de programación orientado a objetos que aprendí; he realizado varios proyectos escolares, desde programas pequeños como tareas simples hasta proyectos con cierta dificultad._
