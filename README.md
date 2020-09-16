@@ -1,7 +1,7 @@
 # Humberto Manuel Pech Huchin 🚀
 Bienvenido al repositorio de mi portafolio
 
-_ En este repositorio expondré los lenguajes de programación que he aprendido durante mis estudios en la Facultad de Matemáticas, específicamente en la Licenciatura de Ingeniería de Software, y a lo largo de mi carrera profesional, explicando en cada uno de los lenguajes algunos proyectos que he llevado a cabo. Así también describiré lo que realicé en aquel(los) lugar(es) que he trabajado, ya sea como prácticante, becario o como trabajador formal.
+_En este repositorio expondré los lenguajes de programación que he aprendido durante mis estudios en la Facultad de Matemáticas, específicamente en la Licenciatura de Ingeniería de Software, y a lo largo de mi carrera profesional, explicando en cada uno de los lenguajes algunos proyectos que he llevado a cabo. Así también describiré lo que realicé en aquel(los) lugar(es) que he trabajado, ya sea como prácticante, becario o como trabajador formal.
 
 ## ¿Qué es lo que he realizado con cada lenguaje de programación? 📋
 
@@ -27,12 +27,12 @@ _A continuación, describiré aquellos programas hechos en PHP que requirieron d
 _Este lenguaje de programación lo aprendí junto con el lenguaje PHP cuando empecé a estudiar sobre el desarrollo de aplicaciones web, por lo que cualquier proyecto que haya realizado con PHP el lenguaje de JavaScript se encuentra de manera implícita. Con JavaScript solo me he enfocado en la parte del front-end, es decir que he realizado scripts para las diferentes páginas que he realizado. He manejado los objetos de DOM de HTML, realizado consultas a servicios web, comunicado con servidores mediante diferentes maneras como AJAX para la actualización de información sin necesidad de refrescar el sitio y, he realizado scripts para la verificación y validación de entradas de los usuarios.
 
 ### HTML & CSS
-_ Tanto HTML como CSS, también lo aprendí con el curso de programación web, en la cual nos enseñaron la estructura de estas y las diferentes funcionalidades de estas. He llevado uno que otro curso de Front-End, en la que nos enseñaron específicamente CSS para el diseño de las páginas.
+_Tanto HTML como CSS, también lo aprendí con el curso de programación web, en la cual nos enseñaron la estructura de estas y las diferentes funcionalidades de estas. He llevado uno que otro curso de Front-End, en la que nos enseñaron específicamente CSS para el diseño de las páginas.
 
 ### SQL
 _ Este lenguaje de base de datos lo fui aprendiendo durante varios semestres de la universidad, puesto que fueron varios proyectos en los que tuve que utilizar diferentes manejadores de bases de datos, entre ellos: MySQL, PostgreSQL y MariaDB. Llevé una materia completamente acerca de bases de datos, en donde aprendí el cómo analizar y estructurar una base de datos, así también el cómo realizar las consultas a estas.
 
-## ¿Qué estuve realizando en la empresa I + D Innovación Aplicada durante mis prácticas profesionales?
+## ¿Qué estuve realizando en la empresa I + D Innovación Aplicada durante mis prácticas profesionales? 🖇️
 
 _ En la empresa en donde realicé mis prácticas profesionales fungí mayormente como tester, realizaba pruebas a las diferentes aplicaciones web y móviles que realizaban los programadores. Esta empresa no utilizaba ninguna metodología ágil, si lo tuviera que asociar con alguna metodología de software, la asociaría con el ciclo de vida en V, ya que el desarrollo de las aplicaciones iba a la par que la verificación y validación de esta.
 
